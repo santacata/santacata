@@ -5,7 +5,7 @@
 - 📫 You can reach me on my email ruben_olle@hotmail.es
 - I would be so happy if I can help, I'm sometimes too curious.
 
->[!INFO]
+>[!NOTE]
 >This should help you
 
 <!---
