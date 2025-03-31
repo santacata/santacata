@@ -8,10 +8,10 @@
 - I would be so happy if I can help, I'm sometimes too curious.
 
 - I'm interested in movies, this ones are my favourite
-- [movie]htps://www.imdb.com/title/tt6139732/
-- [movie2]https://www.imdb.com/title/tt0816692/
-- [movie3]https://www.imdb.com/title/tt0110357/
-- [movie4]https://www.imdb.com/title/tt9362722/
+- [movie] htps://www.imdb.com/title/tt6139732/
+- [movie2] https://www.imdb.com/title/tt0816692/
+- [movie3] https://www.imdb.com/title/tt0110357/
+- [movie4] https://www.imdb.com/title/tt9362722/
 
 >[!NOTE]
 >This should help you
