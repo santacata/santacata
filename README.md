@@ -7,14 +7,6 @@
 - 📫 You can reach me on my email ruben_olle@hotmail.es
 - I would be so happy if I can help, I'm sometimes too curious.
 
-- I'm interested in movies, this ones are my favourite
-- [movie](htps://www.imdb.com/title/tt6139732/)
-- [movie2](https://www.imdb.com/title/tt0816692/)
-- [movie3](https://www.imdb.com/title/tt0110357/)
-- [movie4](https://www.imdb.com/title/tt9362722/)
-
-- ![aladdin](https://github.com/user-attachments/assets/012f8680-0b3f-46bc-a07a-d886738b79d8)
-
 >[!NOTE]
 >This should help you
 
