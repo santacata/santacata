@@ -19,6 +19,9 @@ These ones are my favourite movies
 >[!NOTE]
 >This should help you
 
+>[!WARNING]
+>Or not
+
 <!---!
 rubenolle/rubenSant is a ✨ special ✨ repository because its `README.md` (this file) appears on my GitHub profile.
 --->
