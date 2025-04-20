@@ -2,12 +2,12 @@
 ## Aspiring IT Developer | DAM Student
 
 - 👀 Interested in technology in all its forms — from mobile devices to PCs and beyond.
-- 🌱 I hold a higher degree in photography and video editing, and I'm currently pursuing a Grado Superior in software development (DAM).
+- 🌱 I hold a higher degree in photography and video editing, and I'm currently pursuing superior studies in software development (DAM).
 - 💞️ Eager to collaborate on any custom ROM projects for the Samsung A52s — happy to contribute as a beta tester or provide feedback.
 - 📫 Feel free to reach out at ruben_olle@hotmail.es.
 - 🤓 I'm always curious and excited to learn — if I can help, I will!
 
-  This ones are my favourite movies
+  These ones are my favourite movies
   
 - [link](https://www.imdb.com/title/tt0816692)
 - [link](https://www.imdb.com/title/tt0110357)
