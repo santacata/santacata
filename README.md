@@ -7,7 +7,7 @@
 - 📫 Feel free to reach out at ruben_olle@hotmail.es.
 - 🤓 I'm always curious and excited to learn — if I can help, I will!
 
-  These ones are my favourite movies
+These ones are my favourite movies
   
 - [Interestelar](https://www.imdb.com/title/tt0816692)
 - [El Rey Leon](https://www.imdb.com/title/tt0110357)
