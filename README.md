@@ -1,12 +1,14 @@
 # 👋 Hi, I am @santacata
-## Aspiring IT Developer | DAM Student
+## Aspiring IT Developer | Multi-platform Development (DAM) Student
 
-- 👀 Interested in technology in all its forms — from mobile devices to PCs and beyond.
-- 🌱 I hold a higher degree in photography and video editing, and I'm currently pursuing superior studies in software development (DAM).
-- 💞️ Eager to collaborate on any custom ROM projects for the Samsung A56 — happy to contribute as a beta tester or provide feedback.
-- 📫 Feel free to reach me out at rubensantacatalinapellicer@gmail.com
-- 🤓 I'm always curious and excited to learn — if I can help, I will!
-
+- 👀 **Tech Enthusiast:** Interested in technology in all its forms—from mobile architecture to high-end PCs.
+- 🌱 **The Pivot:** Transitioning from a background in Professional Image & Video Editing to **Software Engineering**. 
+- 💻 **Current Stack:** Working daily with **Java, Kotlin, and Python** to build cross-platform solutions.
+- 🚀 **Versatility:** I am open to collaborating on projects using **any programming language**. I enjoy tackling new challenges and learning new syntaxes on the fly.
+- 💞️ **Open Source:** Eager to contribute as a beta tester, provide detailed logs, or assist in development for mobile and desktop projects.
+- 🤓 **Philosophy:** Always curious, always learning. If there's a problem to solve, I'm in.
+- 📫 **Reach me:** [rubensantacatalinapellicer@gmail.com](mailto:rubensantacatalinapellicer@gmail.com)
+  
 >[!NOTE]
 >This should help you
 
